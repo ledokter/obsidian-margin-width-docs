@@ -1,0 +1,8 @@
+{
+  "name": "Wide Notes & Zero Margins",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Wider notes (1000px centered) and zero side margins in editing and reading view. FR documentation included.",
+  "author": "ledokter",
+  "authorUrl": "https://github.com/ledokter"
+}
