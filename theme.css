@@ -1,4 +1,4 @@
-/* Wide Notes & Zero Margins — theme.css
+/* Wide Notes & Zero Margins - theme.css
    1) Wider centered column (readable line length override)
    2) Zero side padding in editing & reading views
    Full FR documentation: README.md
@@ -7,8 +7,8 @@ body {
   --file-line-width: 1000px;
 }
 
-.markdown-source-view,
-.markdown-reading-view {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+.workspace-leaf-content .markdown-source-view,
+.workspace-leaf-content .markdown-reading-view {
+  padding-left: 0;
+  padding-right: 0;
 }
